@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NvBH9NW7b8nKgwRzTjC8phVBMiHLxdM0XVnPuYgGreAZzAAVy93c9o92xlioSMYw7FkfQSDWpg2T3dr6vlpNbA==",
+  "success": true,
+  "projectFilePath": "D:\\MBF SECRET DOCUMENTS\\Learning C#\\Practice\\TcpChatApp\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brinzao\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
